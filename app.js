@@ -1,5 +1,5 @@
 // ========= CONFIG ============
-const API_KEY = "d61b029662f70c187fd662837352bf9e"; // replace with your key
+const API_KEY = "replace with api key "; // replace with your key
 const UNITS = "metric";
 
 // ========= DOM ============
@@ -204,3 +204,4 @@ locBtn.addEventListener("click", () => requestLocation());
 window.addEventListener("load", () => {
   // requestLocation(); // uncomment if you want auto-detect
 });
+
